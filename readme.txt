@@ -19,19 +19,7 @@ Beyond academics, I'm focused on improving my communication skills and exploring
 
 ---
 
-## 💻 Technical Skills
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
-- **Programming Languages:** Python, C++, C
+## 💻 Technical Skill
 - **Web Development:** HTML, CSS, JavaScript
 - **Soft Skills:** Strong communication, teamwork, problem-solving
 
@@ -49,9 +37,6 @@ I possess hands-on experience in creating responsive and user-friendly websites.
 - **Active Sports Player** - Instilled discipline, teamwork, and perseverance
 
 These achievements demonstrate my technical expertise and dedication to holistic growth and excellence.
-
----
-
 ## 📫 Get In Touch
 
 I'm always open to collaborations, discussions, and new opportunities!
@@ -60,25 +45,4 @@ I'm always open to collaborations, discussions, and new opportunities!
 - **Phone:** +91 74260 33714
 - **LinkedIn:** [linkedin.com/in/rohit-suthar-431967332](http://linkedin.com/in/rohit-suthar-431967332)
 - **GitHub:** [github.com/RohitSuthar01](https://github.com/RohitSuthar01)
-
----
-
-## 🌟 Portfolio Website
-
-Check out my portfolio website to learn more about my work and projects!
-
-[Visit My Portfolio](https://rohitsuthar01.github.io/) *(Update with your actual portfolio URL)*
-
----
-
-<div align="center">
-
-### 💡 "Constantly learning, building, and innovating"
-
-![Profile Views](https://komarev.com/ghpvc/?username=RohitSuthar01&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
 *© 2025 Rohit Suthar | Computer Science & Engineering Student | Aspiring Software Engineer*
