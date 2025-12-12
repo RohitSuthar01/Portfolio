@@ -139,4 +139,20 @@ if (heroText) {
     };
 
     setTimeout(typeWriter, 500);
+
+    function openPopup() {
+  document.getElementById("overlay").style.display = "block";
 }
+
+function closePopup() {
+  document.getElementById("overlay").style.display = "none";
+}
+}
+    function openImagePopup() {
+      document.getElementById("popupImg").src = "style/de111.jpeg"; // your image
+      document.getElementById("imageOverlay").style.display = "block";
+    }
+
+    function closeImagePopup() {
+      document.getElementById("imageOverlay").style.display = "none";
+    }
