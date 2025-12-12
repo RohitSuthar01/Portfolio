@@ -319,6 +319,83 @@
       box-shadow: 0 10px 30px rgba(74, 118, 238, 0.2);
     }
 
+    #overlay {
+  display: none;
+  position: fixed;
+  top: 0; 
+  left: 0;
+  width: 100%; 
+  height: 100%;
+  background: rgba(0,0,0,0.6);
+}
+.viewbtn{
+  margin-top: 10px;
+    padding: 10px 25px;
+  background: linear-gradient(135deg, #6a5af9, #00d4ff);
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+   #imageOverlay {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.7);
+      z-index: 2000;
+    }
+
+    /* Popup Box */
+    #imagePopupBox {
+      width: 400px;
+      background: white;
+      padding: 15px;
+      border-radius: 15px;
+      margin: 100px auto;
+      text-align: center;
+    }
+
+    /* Popup Image */
+    #popupImg {
+      width: 100%;
+      border-radius: 10px;
+    }
+
+    /* Button */
+    .viewButton {
+      padding: 10px 20px;
+      background: linear-gradient(135deg, #6a5af9, #00d4ff);
+      color: white;
+      border: none;
+      border-radius: 12px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+
+    .viewButton:hover {
+      transform: scale(1.05);
+    }
+/* Small popup box */
+#popupBox {
+  width: 100vh;
+  background: white;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 100px auto;
+  text-align: center;
+}
+
+#popupBox img {
+  width: 100%;
+  border-radius: 10px;
+}
     .skills-section .cells .cell img {
       width: 60px;
       height: 60px;
@@ -442,7 +519,6 @@
       justify-content: center;
       display: flex;
     }
-
     #para {
       color: #d3d3d3;
       text-align: center;
